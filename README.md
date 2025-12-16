@@ -2,6 +2,8 @@
 
 A React / TypeScript application for capturing one or more applicants, built with Vite and Mantine.
 
+<img width="1425" height="887" alt="screenshot" src="https://raw.githubusercontent.com/chris-hammond-ross/FLK-take-home/refs/heads/main/public/screenshot.jpg" />
+
 ## Getting Started
 
 ```bash
